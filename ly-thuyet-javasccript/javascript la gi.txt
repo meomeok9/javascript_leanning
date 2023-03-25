@@ -1,0 +1,9 @@
+JavaScript là ngôn ngữ lập trình cấp cao,
+
+dựa trên nguyên mẫu, hướng đối
+
+tượng, đa mô hình, được thông dịch hoặc biên dịch
+
+ngay trong thời gian, động, đơn luồng, được thu
+
+thập rác với các chức năng hạng nhất và sự kiện không chặn mô hình đồng thời vòng lặp.

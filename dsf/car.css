@@ -1,0 +1,32 @@
+
+body {
+  background-color: darkslategray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: #003580;
+  color: white;
+  margin:20px;
+  display: inline-block;
+  font-family: inherit;
+  font-weight: 500;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 10rem;
+  cursor: pointer;
+  transition: all 0.3s;
+  border: 1px solid white;
+}
+.btn--active{
+  border: 1px solid white;
+}
+
+
+.ctn {
+  background-color: #003580;
+  width: 100%;
+  display: flex;
+}

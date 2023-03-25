@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="lab3-6.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        
+        .divIn{
+            margin: 5px;
+        } 
+        h1{
+            color: blue;
+            margin-top: 25px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div style="width:100% ; display: flex;">
+    <div style="background-color: aqua;width: 45%;" class="divIn">
+        <p>Dolphin team</p>
+        <button onclick="pushA()">click</button>
+        <p id="point1"></p>
+        <p id="p1"></p>
+    </div>
+    <div style="background-color: lightpink;width: 45%;" class="divIn">
+        <p>Koala team</p>
+        <button onclick="pushB()">click</button>
+        <p id="point2"></p>
+        <p id="p2"></p>
+    </div>
+</div>
+    <h1 id="result">Result</h1>
+
+</body>
+</html>

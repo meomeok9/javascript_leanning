@@ -1,0 +1,6 @@
+4 lines (4 sloc)  52 Bytes
+
+{
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
